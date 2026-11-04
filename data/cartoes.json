@@ -1,0 +1,436 @@
+[
+ {
+  "id": 0,
+  "en": "wake up",
+  "pt": "acordar",
+  "exemplo": "I wake up at 6 a.m.",
+  "dica": "Pense em 'acordar e levantar' (up = para cima)."
+ },
+ {
+  "id": 1,
+  "en": "work",
+  "pt": "trabalhar",
+  "exemplo": "I work at a pharmacy.",
+  "dica": "Work parece 'uorque': trabalho."
+ },
+ {
+  "id": 2,
+  "en": "eat",
+  "pt": "comer",
+  "exemplo": "We eat rice and beans.",
+  "dica": "Eat soa como 'iiit'."
+ },
+ {
+  "id": 3,
+  "en": "drink",
+  "pt": "beber",
+  "exemplo": "I drink coffee in the morning.",
+  "dica": "Drink = drinque, uma bebida."
+ },
+ {
+  "id": 4,
+  "en": "sleep",
+  "pt": "dormir",
+  "exemplo": "I sleep eight hours.",
+  "dica": "Sleep soa como 'slip': deslizar para o sono."
+ },
+ {
+  "id": 5,
+  "en": "go",
+  "pt": "ir",
+  "exemplo": "I go to work by bus.",
+  "dica": "Go = vai, como 'go!' no jogo."
+ },
+ {
+  "id": 6,
+  "en": "come",
+  "pt": "vir",
+  "exemplo": "Come here, please.",
+  "dica": "Come = vem para cá."
+ },
+ {
+  "id": 7,
+  "en": "buy",
+  "pt": "comprar",
+  "exemplo": "I buy bread every day.",
+  "dica": "Buy soa como 'bai': bye-bye, dinheiro."
+ },
+ {
+  "id": 8,
+  "en": "sell",
+  "pt": "vender",
+  "exemplo": "They sell medicine.",
+  "dica": "Sell parece 'selo': vende selos."
+ },
+ {
+  "id": 9,
+  "en": "pay",
+  "pt": "pagar",
+  "exemplo": "Can I pay by card?",
+  "dica": "Pay e pagar começam com p."
+ },
+ {
+  "id": 10,
+  "en": "help",
+  "pt": "ajudar",
+  "exemplo": "Can you help me?",
+  "dica": "Help! = Socorro!"
+ },
+ {
+  "id": 11,
+  "en": "need",
+  "pt": "precisar",
+  "exemplo": "I need water.",
+  "dica": "Need: 'niiid', necessidade."
+ },
+ {
+  "id": 12,
+  "en": "want",
+  "pt": "querer",
+  "exemplo": "I want a coffee.",
+  "dica": "Want soa 'uónt': eu quero."
+ },
+ {
+  "id": 13,
+  "en": "like",
+  "pt": "gostar",
+  "exemplo": "I like music.",
+  "dica": "Like = curtir, como nas redes."
+ },
+ {
+  "id": 14,
+  "en": "know",
+  "pt": "saber, conhecer",
+  "exemplo": "I know her name.",
+  "dica": "O k é mudo: 'nou'."
+ },
+ {
+  "id": 15,
+  "en": "think",
+  "pt": "pensar, achar",
+  "exemplo": "I think it is good.",
+  "dica": "Think: pense com a língua entre os dentes."
+ },
+ {
+  "id": 16,
+  "en": "speak",
+  "pt": "falar",
+  "exemplo": "I speak Portuguese.",
+  "dica": "Speak parece 'speaker', alto-falante."
+ },
+ {
+  "id": 17,
+  "en": "listen",
+  "pt": "ouvir, escutar",
+  "exemplo": "Listen to me.",
+  "dica": "O t é mudo: 'lissen'."
+ },
+ {
+  "id": 18,
+  "en": "read",
+  "pt": "ler",
+  "exemplo": "I read the news.",
+  "dica": "Read: 'riid' no presente."
+ },
+ {
+  "id": 19,
+  "en": "write",
+  "pt": "escrever",
+  "exemplo": "Write your name here.",
+  "dica": "O w é mudo: 'rait'."
+ },
+ {
+  "id": 20,
+  "en": "pharmacy",
+  "pt": "farmácia",
+  "exemplo": "I work at a pharmacy.",
+  "dica": "Ph soa como f: farmácia."
+ },
+ {
+  "id": 21,
+  "en": "medicine",
+  "pt": "remédio",
+  "exemplo": "Take this medicine.",
+  "dica": "Medicine = medicina, remédio."
+ },
+ {
+  "id": 22,
+  "en": "customer",
+  "pt": "cliente",
+  "exemplo": "The customer is waiting.",
+  "dica": "Customer vem de costume: quem vem sempre."
+ },
+ {
+  "id": 23,
+  "en": "price",
+  "pt": "preço",
+  "exemplo": "What is the price?",
+  "dica": "Price parece preço."
+ },
+ {
+  "id": 24,
+  "en": "money",
+  "pt": "dinheiro",
+  "exemplo": "I don't have money.",
+  "dica": "Money: 'mâni'."
+ },
+ {
+  "id": 25,
+  "en": "house",
+  "pt": "casa",
+  "exemplo": "My house is small.",
+  "dica": "House: 'rauss'."
+ },
+ {
+  "id": 26,
+  "en": "family",
+  "pt": "família",
+  "exemplo": "I love my family.",
+  "dica": "Quase igual ao português."
+ },
+ {
+  "id": 27,
+  "en": "friend",
+  "pt": "amigo",
+  "exemplo": "He is my friend.",
+  "dica": "Friend: 'frend'."
+ },
+ {
+  "id": 28,
+  "en": "water",
+  "pt": "água",
+  "exemplo": "I drink water.",
+  "dica": "Water: 'uórer'."
+ },
+ {
+  "id": 29,
+  "en": "food",
+  "pt": "comida",
+  "exemplo": "The food is good.",
+  "dica": "Food: 'fuud', fast food."
+ },
+ {
+  "id": 30,
+  "en": "morning",
+  "pt": "manhã",
+  "exemplo": "Good morning!",
+  "dica": "Good morning = bom dia."
+ },
+ {
+  "id": 31,
+  "en": "night",
+  "pt": "noite",
+  "exemplo": "Good night!",
+  "dica": "O gh é mudo: 'nait'."
+ },
+ {
+  "id": 32,
+  "en": "today",
+  "pt": "hoje",
+  "exemplo": "Today is Monday.",
+  "dica": "To + day = este dia."
+ },
+ {
+  "id": 33,
+  "en": "tomorrow",
+  "pt": "amanhã",
+  "exemplo": "See you tomorrow.",
+  "dica": "Tomorrow: 'tumórou'."
+ },
+ {
+  "id": 34,
+  "en": "yesterday",
+  "pt": "ontem",
+  "exemplo": "I worked yesterday.",
+  "dica": "Yester + day = o dia anterior."
+ },
+ {
+  "id": 35,
+  "en": "week",
+  "pt": "semana",
+  "exemplo": "I work five days a week.",
+  "dica": "Week: 'uiik'."
+ },
+ {
+  "id": 36,
+  "en": "time",
+  "pt": "tempo, hora",
+  "exemplo": "What time is it?",
+  "dica": "Time: 'taim'."
+ },
+ {
+  "id": 37,
+  "en": "day",
+  "pt": "dia",
+  "exemplo": "Have a nice day!",
+  "dica": "Day: 'dei'."
+ },
+ {
+  "id": 38,
+  "en": "happy",
+  "pt": "feliz",
+  "exemplo": "I am happy today.",
+  "dica": "Happy birthday = feliz aniversário."
+ },
+ {
+  "id": 39,
+  "en": "tired",
+  "pt": "cansado",
+  "exemplo": "I am tired.",
+  "dica": "Tired: 'taiârd'."
+ },
+ {
+  "id": 40,
+  "en": "hungry",
+  "pt": "com fome",
+  "exemplo": "Are you hungry?",
+  "dica": "Hungry: 'rângri'."
+ },
+ {
+  "id": 41,
+  "en": "big",
+  "pt": "grande",
+  "exemplo": "It is a big city.",
+  "dica": "Big Mac: grande."
+ },
+ {
+  "id": 42,
+  "en": "small",
+  "pt": "pequeno",
+  "exemplo": "The room is small.",
+  "dica": "Small: 'smól'."
+ },
+ {
+  "id": 43,
+  "en": "good",
+  "pt": "bom",
+  "exemplo": "This is good.",
+  "dica": "Good: 'gud'."
+ },
+ {
+  "id": 44,
+  "en": "bad",
+  "pt": "ruim",
+  "exemplo": "It is a bad day.",
+  "dica": "Bad: 'béd'."
+ },
+ {
+  "id": 45,
+  "en": "easy",
+  "pt": "fácil",
+  "exemplo": "English is easy!",
+  "dica": "Easy: 'iizi'."
+ },
+ {
+  "id": 46,
+  "en": "difficult",
+  "pt": "difícil",
+  "exemplo": "This is difficult.",
+  "dica": "Parece difícil."
+ },
+ {
+  "id": 47,
+  "en": "open",
+  "pt": "abrir, aberto",
+  "exemplo": "The store is open.",
+  "dica": "Open = aberto."
+ },
+ {
+  "id": 48,
+  "en": "close",
+  "pt": "fechar",
+  "exemplo": "Close the door.",
+  "dica": "Close: 'clouz'."
+ },
+ {
+  "id": 49,
+  "en": "start",
+  "pt": "começar",
+  "exemplo": "We start at 8.",
+  "dica": "Start = largada."
+ },
+ {
+  "id": 50,
+  "en": "finish",
+  "pt": "terminar",
+  "exemplo": "I finish work at 6.",
+  "dica": "Finish = final."
+ },
+ {
+  "id": 51,
+  "en": "ask",
+  "pt": "perguntar, pedir",
+  "exemplo": "Can I ask a question?",
+  "dica": "Ask: 'ésk'."
+ },
+ {
+  "id": 52,
+  "en": "answer",
+  "pt": "responder, resposta",
+  "exemplo": "Answer the phone.",
+  "dica": "O w é mudo: 'énsâr'."
+ },
+ {
+  "id": 53,
+  "en": "call",
+  "pt": "ligar, chamar",
+  "exemplo": "Call me later.",
+  "dica": "Call center: central de ligações."
+ },
+ {
+  "id": 54,
+  "en": "wait",
+  "pt": "esperar",
+  "exemplo": "Wait a minute.",
+  "dica": "Wait: 'ueit'."
+ },
+ {
+  "id": 55,
+  "en": "learn",
+  "pt": "aprender",
+  "exemplo": "I learn English every day.",
+  "dica": "Learn: 'lârn'."
+ },
+ {
+  "id": 56,
+  "en": "study",
+  "pt": "estudar",
+  "exemplo": "I study at night.",
+  "dica": "Study: 'stâdi'."
+ },
+ {
+  "id": 57,
+  "en": "understand",
+  "pt": "entender",
+  "exemplo": "I don't understand.",
+  "dica": "Under + stand: ficar por baixo e entender."
+ },
+ {
+  "id": 58,
+  "en": "repeat",
+  "pt": "repetir",
+  "exemplo": "Can you repeat, please?",
+  "dica": "Parece repetir."
+ },
+ {
+  "id": 59,
+  "en": "bus",
+  "pt": "ônibus",
+  "exemplo": "I take the bus.",
+  "dica": "Bus: 'bâs'."
+ },
+ {
+  "id": 60,
+  "en": "car",
+  "pt": "carro",
+  "exemplo": "My car is red.",
+  "dica": "Car = carro."
+ },
+ {
+  "id": 61,
+  "en": "street",
+  "pt": "rua",
+  "exemplo": "I live on this street.",
+  "dica": "Street: 'striit'."
+ }
+]

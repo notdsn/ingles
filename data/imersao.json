@@ -1,0 +1,262 @@
+[
+ {
+  "id": "farmacia",
+  "titulo": "Um dia na farmácia",
+  "pt": "Eu trabalho em uma farmácia. Eu abro a loja às oito horas. Muitos clientes chegam de manhã. Eles pedem remédios para dor de cabeça e gripe. Eu ajudo os clientes e respondo perguntas. Às vezes eu falo inglês com turistas. Eu termino o trabalho às seis.",
+  "en": "I work at a pharmacy. I open the store at eight o'clock. Many customers come in the morning. They ask for medicine for headaches and the flu. I help the customers and answer questions. Sometimes I speak English with tourists. I finish work at six.",
+  "perguntas": [
+   {
+    "pergunta": "O que significa 'customers'?",
+    "opcoes": [
+     "clientes",
+     "funcionários",
+     "turistas"
+    ],
+    "resposta": "clientes",
+    "tipo": "vocabulário",
+    "topico": "Imersão: Um dia na farmácia"
+   },
+   {
+    "pergunta": "Como se diz 'dor de cabeça'?",
+    "opcoes": [
+     "headache",
+     "stomach",
+     "flu"
+    ],
+    "resposta": "headache",
+    "tipo": "vocabulário",
+    "topico": "Imersão: Um dia na farmácia"
+   },
+   {
+    "pergunta": "'I finish work at six' significa:",
+    "opcoes": [
+     "Eu termino o trabalho às seis.",
+     "Eu começo o trabalho às seis.",
+     "Eu trabalho seis horas."
+    ],
+    "resposta": "Eu termino o trabalho às seis.",
+    "tipo": "frase",
+    "topico": "Imersão: Um dia na farmácia"
+   },
+   {
+    "pergunta": "A que horas a loja abre?",
+    "opcoes": [
+     "Às oito",
+     "Às seis",
+     "Ao meio-dia"
+    ],
+    "resposta": "Às oito",
+    "tipo": "compreensão",
+    "topico": "Imersão: Um dia na farmácia"
+   }
+  ]
+ },
+ {
+  "id": "manha",
+  "titulo": "Minha manhã",
+  "pt": "Eu acordo às seis. Eu tomo banho e bebo café. Eu como pão com manteiga. Depois eu pego o ônibus para o trabalho. O ônibus está sempre cheio.",
+  "en": "I wake up at six. I take a shower and drink coffee. I eat bread with butter. Then I take the bus to work. The bus is always full.",
+  "perguntas": [
+   {
+    "pergunta": "'Take a shower' significa:",
+    "opcoes": [
+     "tomar banho",
+     "tomar café",
+     "pegar o ônibus"
+    ],
+    "resposta": "tomar banho",
+    "tipo": "vocabulário",
+    "topico": "Imersão: Minha manhã"
+   },
+   {
+    "pergunta": "Como se diz 'cheio'?",
+    "opcoes": [
+     "full",
+     "empty",
+     "fast"
+    ],
+    "resposta": "full",
+    "tipo": "vocabulário",
+    "topico": "Imersão: Minha manhã"
+   },
+   {
+    "pergunta": "'Then I take the bus' significa:",
+    "opcoes": [
+     "Depois eu pego o ônibus.",
+     "Eu perdi o ônibus.",
+     "Eu vendo o ônibus."
+    ],
+    "resposta": "Depois eu pego o ônibus.",
+    "tipo": "frase",
+    "topico": "Imersão: Minha manhã"
+   },
+   {
+    "pergunta": "O que ele come?",
+    "opcoes": [
+     "Pão com manteiga",
+     "Arroz",
+     "Frutas"
+    ],
+    "resposta": "Pão com manteiga",
+    "tipo": "compreensão",
+    "topico": "Imersão: Minha manhã"
+   }
+  ]
+ },
+ {
+  "id": "mercado",
+  "titulo": "No supermercado",
+  "pt": "Hoje eu vou ao supermercado. Eu preciso de arroz, feijão e leite. O leite está caro. Eu pago com cartão. A moça do caixa é muito simpática.",
+  "en": "Today I go to the supermarket. I need rice, beans and milk. The milk is expensive. I pay by card. The cashier is very nice.",
+  "perguntas": [
+   {
+    "pergunta": "'Expensive' significa:",
+    "opcoes": [
+     "caro",
+     "barato",
+     "gostoso"
+    ],
+    "resposta": "caro",
+    "tipo": "vocabulário",
+    "topico": "Imersão: No supermercado"
+   },
+   {
+    "pergunta": "Como se diz 'feijão'?",
+    "opcoes": [
+     "beans",
+     "rice",
+     "bread"
+    ],
+    "resposta": "beans",
+    "tipo": "vocabulário",
+    "topico": "Imersão: No supermercado"
+   },
+   {
+    "pergunta": "'I pay by card' significa:",
+    "opcoes": [
+     "Eu pago com cartão.",
+     "Eu pago em dinheiro.",
+     "Eu não pago."
+    ],
+    "resposta": "Eu pago com cartão.",
+    "tipo": "frase",
+    "topico": "Imersão: No supermercado"
+   },
+   {
+    "pergunta": "O que está caro?",
+    "opcoes": [
+     "O leite",
+     "O arroz",
+     "O feijão"
+    ],
+    "resposta": "O leite",
+    "tipo": "compreensão",
+    "topico": "Imersão: No supermercado"
+   }
+  ]
+ },
+ {
+  "id": "fimdesemana",
+  "titulo": "Fim de semana em família",
+  "pt": "No sábado eu visito a minha mãe. Nós cozinhamos juntos e conversamos muito. No domingo eu descanso. Eu assisto futebol na TV e durmo à tarde.",
+  "en": "On Saturday I visit my mother. We cook together and talk a lot. On Sunday I rest. I watch soccer on TV and sleep in the afternoon.",
+  "perguntas": [
+   {
+    "pergunta": "'Rest' significa:",
+    "opcoes": [
+     "descansar",
+     "correr",
+     "trabalhar"
+    ],
+    "resposta": "descansar",
+    "tipo": "vocabulário",
+    "topico": "Imersão: Fim de semana em família"
+   },
+   {
+    "pergunta": "Como se diz 'juntos'?",
+    "opcoes": [
+     "together",
+     "alone",
+     "always"
+    ],
+    "resposta": "together",
+    "tipo": "vocabulário",
+    "topico": "Imersão: Fim de semana em família"
+   },
+   {
+    "pergunta": "'We talk a lot' significa:",
+    "opcoes": [
+     "Nós conversamos muito.",
+     "Nós andamos muito.",
+     "Nós comemos muito."
+    ],
+    "resposta": "Nós conversamos muito.",
+    "tipo": "frase",
+    "topico": "Imersão: Fim de semana em família"
+   },
+   {
+    "pergunta": "O que ele faz no domingo?",
+    "opcoes": [
+     "Descansa",
+     "Visita a mãe",
+     "Trabalha"
+    ],
+    "resposta": "Descansa",
+    "tipo": "compreensão",
+    "topico": "Imersão: Fim de semana em família"
+   }
+  ]
+ },
+ {
+  "id": "noite",
+  "titulo": "À noite em casa",
+  "pt": "Eu chego em casa às sete. Eu estou cansado. Eu faço o jantar e lavo a louça. Depois eu estudo inglês por trinta minutos. Eu vou dormir às onze.",
+  "en": "I get home at seven. I am tired. I make dinner and wash the dishes. Then I study English for thirty minutes. I go to bed at eleven.",
+  "perguntas": [
+   {
+    "pergunta": "'Wash the dishes' significa:",
+    "opcoes": [
+     "lavar a louça",
+     "lavar a roupa",
+     "fazer o jantar"
+    ],
+    "resposta": "lavar a louça",
+    "tipo": "vocabulário",
+    "topico": "Imersão: À noite em casa"
+   },
+   {
+    "pergunta": "Como se diz 'cansado'?",
+    "opcoes": [
+     "tired",
+     "happy",
+     "hungry"
+    ],
+    "resposta": "tired",
+    "tipo": "vocabulário",
+    "topico": "Imersão: À noite em casa"
+   },
+   {
+    "pergunta": "'I go to bed at eleven' significa:",
+    "opcoes": [
+     "Eu vou dormir às onze.",
+     "Eu acordo às onze.",
+     "Eu janto às onze."
+    ],
+    "resposta": "Eu vou dormir às onze.",
+    "tipo": "frase",
+    "topico": "Imersão: À noite em casa"
+   },
+   {
+    "pergunta": "Quanto tempo ele estuda inglês?",
+    "opcoes": [
+     "30 minutos",
+     "1 hora",
+     "11 minutos"
+    ],
+    "resposta": "30 minutos",
+    "tipo": "compreensão",
+    "topico": "Imersão: À noite em casa"
+   }
+  ]
+ }
+]

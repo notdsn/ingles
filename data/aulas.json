@@ -1,0 +1,1024 @@
+[
+ {
+  "id": "present-simple",
+  "data": "2026-11-04",
+  "titulo": "Present Simple: a rotina",
+  "foco": "gramática",
+  "topico": "Present Simple",
+  "aquecimento": {
+   "texto": "Ouça e repita em voz alta 3 vezes cada frase. Pense na sua rotina.",
+   "frases": [
+    "I wake up at seven.",
+    "I work at a pharmacy.",
+    "She drinks coffee every morning."
+   ]
+  },
+  "explicacao": [
+   "Usamos o Present Simple para falar de rotina, hábitos e fatos.",
+   "Com I, you, we, they o verbo fica normal: I work, they eat.",
+   "Com he, she, it colocamos -s no verbo: he works, she eats. Verbos terminados em o, sh, ch, x ganham -es: he goes, she watches. Consoante + y vira -ies: he studies.",
+   "Negativa: don't (I, you, we, they) e doesn't (he, she, it). Depois de doesn't o verbo volta ao normal: she doesn't work (e não doesn't works).",
+   "Pergunta: Do (I, you, we, they) e Does (he, she, it). Does he work? Yes, he does. / No, he doesn't."
+  ],
+  "exemplos": [
+   {
+    "en": "I work from Monday to Friday.",
+    "pt": "Eu trabalho de segunda a sexta."
+   },
+   {
+    "en": "He works at a pharmacy.",
+    "pt": "Ele trabalha em uma farmácia."
+   },
+   {
+    "en": "We don't drink soda.",
+    "pt": "Nós não bebemos refrigerante."
+   },
+   {
+    "en": "She doesn't like coffee.",
+    "pt": "Ela não gosta de café."
+   },
+   {
+    "en": "Do you speak English?",
+    "pt": "Você fala inglês?"
+   },
+   {
+    "en": "Does she go to school?",
+    "pt": "Ela vai para a escola?"
+   }
+  ],
+  "exercicios": [
+   {
+    "tipo": "escolha",
+    "pergunta": "She ___ at a hospital.",
+    "resposta": "works",
+    "explicacao": "He/she/it: verbo com -s.",
+    "opcoes": [
+     "work",
+     "works",
+     "working"
+    ],
+    "id": "present-simple-0",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "I ___ like fish.",
+    "resposta": "don't",
+    "explicacao": "Com I usamos don't.",
+    "opcoes": [
+     "don't",
+     "doesn't",
+     "not"
+    ],
+    "id": "present-simple-1",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "___ he speak Spanish?",
+    "resposta": "Does",
+    "explicacao": "Pergunta com he: Does.",
+    "opcoes": [
+     "Do",
+     "Does",
+     "Is"
+    ],
+    "id": "present-simple-2",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Complete: My brother ___ (go) to work by bus.",
+    "resposta": [
+     "goes"
+    ],
+    "explicacao": "Go com he/she/it vira goes.",
+    "id": "present-simple-3",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Corrija: She doesn't works on Sunday.",
+    "resposta": [
+     "she doesn't work on sunday",
+     "she does not work on sunday"
+    ],
+    "explicacao": "Depois de doesn't o verbo fica sem -s.",
+    "id": "present-simple-4",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça e escolha a frase certa.",
+    "resposta": "He works every day.",
+    "explicacao": "Ouvimos 'works' com -s.",
+    "opcoes": [
+     "He works every day.",
+     "He work every day.",
+     "He working every day."
+    ],
+    "audio": "He works every day.",
+    "id": "present-simple-5",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "ouvir_escrever",
+    "pergunta": "Ouça e escreva a frase.",
+    "resposta": [
+     "i drink water",
+     "i drink water."
+    ],
+    "explicacao": "I drink water = Eu bebo água.",
+    "audio": "I drink water.",
+    "id": "present-simple-6",
+    "topico": "Present Simple"
+   }
+  ],
+  "quiz": [
+   {
+    "tipo": "escolha",
+    "pergunta": "They ___ TV at night.",
+    "resposta": "watch",
+    "explicacao": "They: verbo normal.",
+    "opcoes": [
+     "watch",
+     "watches",
+     "watching"
+    ],
+    "id": "present-simple-7",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "My mother ___ (study) English.",
+    "resposta": "studies",
+    "explicacao": "Consoante + y vira -ies.",
+    "opcoes": [
+     "studys",
+     "studies",
+     "study"
+    ],
+    "id": "present-simple-8",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "___ you like pizza?",
+    "resposta": "Do",
+    "explicacao": "Pergunta com you: Do.",
+    "opcoes": [
+     "Does",
+     "Do",
+     "Are"
+    ],
+    "id": "present-simple-9",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "He ___ eat meat.",
+    "resposta": "doesn't",
+    "explicacao": "He: doesn't.",
+    "opcoes": [
+     "don't",
+     "doesn't",
+     "isn't"
+    ],
+    "id": "present-simple-10",
+    "topico": "Present Simple"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça: o que ela faz?",
+    "resposta": "She sells medicine.",
+    "explicacao": "She + sells.",
+    "opcoes": [
+     "She sells medicine.",
+     "She sell medicine.",
+     "She is sell medicine."
+    ],
+    "audio": "She sells medicine.",
+    "id": "present-simple-11",
+    "topico": "Present Simple"
+   }
+  ]
+ },
+ {
+  "id": "to-be",
+  "data": "2026-11-05",
+  "titulo": "Verbo To Be: ser e estar",
+  "foco": "conversa",
+  "topico": "To Be",
+  "aquecimento": {
+   "texto": "Ouça e repita. Depois diga o seu nome e a sua profissão.",
+   "frases": [
+    "Hello, I am Edson.",
+    "I am from Brazil.",
+    "I am tired today."
+   ]
+  },
+  "explicacao": [
+   "To be significa ser ou estar. No presente tem três formas: am, is, are.",
+   "I am / he, she, it is / you, we, they are.",
+   "Formas curtas: I'm, he's, she's, it's, you're, we're, they're.",
+   "Negativa: coloque not depois: I am not, she is not (isn't), they are not (aren't).",
+   "Pergunta: inverta a ordem. You are happy. → Are you happy? Yes, I am."
+  ],
+  "exemplos": [
+   {
+    "en": "I am Brazilian.",
+    "pt": "Eu sou brasileiro."
+   },
+   {
+    "en": "She is at work.",
+    "pt": "Ela está no trabalho."
+   },
+   {
+    "en": "We are friends.",
+    "pt": "Nós somos amigos."
+   },
+   {
+    "en": "He isn't tired.",
+    "pt": "Ele não está cansado."
+   },
+   {
+    "en": "Are you hungry?",
+    "pt": "Você está com fome?"
+   },
+   {
+    "en": "Is it expensive?",
+    "pt": "É caro?"
+   }
+  ],
+  "exercicios": [
+   {
+    "tipo": "escolha",
+    "pergunta": "I ___ a pharmacist.",
+    "resposta": "am",
+    "explicacao": "I + am.",
+    "opcoes": [
+     "is",
+     "am",
+     "are"
+    ],
+    "id": "to-be-0",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "They ___ at home.",
+    "resposta": "are",
+    "explicacao": "They + are.",
+    "opcoes": [
+     "is",
+     "am",
+     "are"
+    ],
+    "id": "to-be-1",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "___ she your sister?",
+    "resposta": "Is",
+    "explicacao": "Pergunta com she: Is.",
+    "opcoes": [
+     "Are",
+     "Is",
+     "Do"
+    ],
+    "id": "to-be-2",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Complete: My phone ___ new. (is/are)",
+    "resposta": [
+     "is"
+    ],
+    "explicacao": "It (my phone) + is.",
+    "id": "to-be-3",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Escreva em inglês: Eu não estou cansado. (use I'm)",
+    "resposta": [
+     "i'm not tired",
+     "i am not tired"
+    ],
+    "explicacao": "I'm not tired.",
+    "id": "to-be-4",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça e escolha.",
+    "resposta": "We are happy.",
+    "explicacao": "We + are.",
+    "opcoes": [
+     "We are happy.",
+     "We is happy.",
+     "We am happy."
+    ],
+    "audio": "We are happy.",
+    "id": "to-be-5",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "ouvir_escrever",
+    "pergunta": "Ouça e escreva.",
+    "resposta": [
+     "she is my friend",
+     "she's my friend"
+    ],
+    "explicacao": "She is my friend = Ela é minha amiga.",
+    "audio": "She is my friend.",
+    "id": "to-be-6",
+    "topico": "To Be"
+   }
+  ],
+  "quiz": [
+   {
+    "tipo": "escolha",
+    "pergunta": "You ___ late.",
+    "resposta": "are",
+    "explicacao": "You + are.",
+    "opcoes": [
+     "is",
+     "are",
+     "am"
+    ],
+    "id": "to-be-7",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "It ___ cold today.",
+    "resposta": "is",
+    "explicacao": "It + is.",
+    "opcoes": [
+     "is",
+     "are",
+     "am"
+    ],
+    "id": "to-be-8",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "Forma curta de 'they are':",
+    "resposta": "they're",
+    "explicacao": "They are = they're.",
+    "opcoes": [
+     "they's",
+     "they're",
+     "theyre's"
+    ],
+    "id": "to-be-9",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "Negativa: He is a doctor.",
+    "resposta": "He isn't a doctor.",
+    "explicacao": "Not depois de is.",
+    "opcoes": [
+     "He not is a doctor.",
+     "He isn't a doctor.",
+     "He don't a doctor."
+    ],
+    "id": "to-be-10",
+    "topico": "To Be"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça a pergunta.",
+    "resposta": "Are you OK?",
+    "explicacao": "Are you...?",
+    "opcoes": [
+     "Are you OK?",
+     "Is you OK?",
+     "Do you OK?"
+    ],
+    "audio": "Are you OK?",
+    "id": "to-be-11",
+    "topico": "To Be"
+   }
+  ]
+ },
+ {
+  "id": "present-continuous",
+  "data": "2026-11-06",
+  "titulo": "Present Continuous: agora",
+  "foco": "compreensão auditiva",
+  "topico": "Present Continuous",
+  "aquecimento": {
+   "texto": "Ouça com atenção. Tente entender sem ler primeiro.",
+   "frases": [
+    "I am working now.",
+    "She is talking on the phone.",
+    "They are eating lunch."
+   ]
+  },
+  "explicacao": [
+   "Usamos o Present Continuous para ações que estão acontecendo agora.",
+   "Forma: am / is / are + verbo com -ing. I am working. She is eating.",
+   "Regras do -ing: verbo com e no final perde o e: write → writing. Verbos curtos como run, sit dobram a consoante: running, sitting.",
+   "Negativa: I'm not working. He isn't sleeping.",
+   "Pergunta: Are you working? Is she sleeping?",
+   "Palavras comuns: now, right now, at the moment, today."
+  ],
+  "exemplos": [
+   {
+    "en": "I am studying English now.",
+    "pt": "Estou estudando inglês agora."
+   },
+   {
+    "en": "He is helping a customer.",
+    "pt": "Ele está ajudando um cliente."
+   },
+   {
+    "en": "We are listening to music.",
+    "pt": "Estamos ouvindo música."
+   },
+   {
+    "en": "She isn't working today.",
+    "pt": "Ela não está trabalhando hoje."
+   },
+   {
+    "en": "Are you sleeping?",
+    "pt": "Você está dormindo?"
+   },
+   {
+    "en": "It is raining.",
+    "pt": "Está chovendo."
+   }
+  ],
+  "exercicios": [
+   {
+    "tipo": "escolha",
+    "pergunta": "She ___ dinner now.",
+    "resposta": "is cooking",
+    "explicacao": "Agora: is + -ing.",
+    "opcoes": [
+     "cooks",
+     "is cooking",
+     "cooking"
+    ],
+    "id": "present-continuous-0",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "write + ing =",
+    "resposta": "writing",
+    "explicacao": "Tira o e: writing.",
+    "opcoes": [
+     "writeing",
+     "writing",
+     "writting"
+    ],
+    "id": "present-continuous-1",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "They ___ playing football.",
+    "resposta": "are",
+    "explicacao": "They + are.",
+    "opcoes": [
+     "is",
+     "am",
+     "are"
+    ],
+    "id": "present-continuous-2",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Complete: I am ___ (read) a book.",
+    "resposta": [
+     "reading"
+    ],
+    "explicacao": "read + ing = reading.",
+    "id": "present-continuous-3",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça. O que ele está fazendo?",
+    "resposta": "He is drinking water.",
+    "explicacao": "drinking = bebendo.",
+    "opcoes": [
+     "He is drinking water.",
+     "He is eating bread.",
+     "He is sleeping."
+    ],
+    "audio": "He is drinking water.",
+    "id": "present-continuous-4",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça e escolha a tradução.",
+    "resposta": "Nós estamos esperando o ônibus.",
+    "explicacao": "waiting for = esperando.",
+    "opcoes": [
+     "Nós estamos esperando o ônibus.",
+     "Nós pegamos o ônibus.",
+     "Nós vendemos o ônibus."
+    ],
+    "audio": "We are waiting for the bus.",
+    "id": "present-continuous-5",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "ouvir_escrever",
+    "pergunta": "Ouça e escreva.",
+    "resposta": [
+     "it is raining",
+     "it's raining"
+    ],
+    "explicacao": "It is raining = Está chovendo.",
+    "audio": "It is raining.",
+    "id": "present-continuous-6",
+    "topico": "Present Continuous"
+   }
+  ],
+  "quiz": [
+   {
+    "tipo": "escolha",
+    "pergunta": "run + ing =",
+    "resposta": "running",
+    "explicacao": "Dobra o n.",
+    "opcoes": [
+     "runing",
+     "running",
+     "runeing"
+    ],
+    "id": "present-continuous-7",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "Look! The baby ___.",
+    "resposta": "is sleeping",
+    "explicacao": "Look! = agora.",
+    "opcoes": [
+     "sleeps",
+     "is sleeping",
+     "sleep"
+    ],
+    "id": "present-continuous-8",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "___ you listening to me?",
+    "resposta": "Are",
+    "explicacao": "You + are.",
+    "opcoes": [
+     "Do",
+     "Is",
+     "Are"
+    ],
+    "id": "present-continuous-9",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "Negativa: He is working.",
+    "resposta": "He isn't working.",
+    "explicacao": "isn't + -ing.",
+    "opcoes": [
+     "He isn't working.",
+     "He doesn't working.",
+     "He not working."
+    ],
+    "id": "present-continuous-10",
+    "topico": "Present Continuous"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça e escolha.",
+    "resposta": "She is writing.",
+    "explicacao": "writing = escrevendo.",
+    "opcoes": [
+     "She is reading.",
+     "She is writing.",
+     "She is riding."
+    ],
+    "audio": "She is writing.",
+    "id": "present-continuous-11",
+    "topico": "Present Continuous"
+   }
+  ]
+ },
+ {
+  "id": "past-simple",
+  "data": "2026-11-07",
+  "titulo": "Past Simple: verbos regulares",
+  "foco": "gramática",
+  "topico": "Past Simple",
+  "aquecimento": {
+   "texto": "Ouça e repita. Pense no que você fez ontem.",
+   "frases": [
+    "Yesterday I worked a lot.",
+    "I watched TV last night.",
+    "She called me in the morning."
+   ]
+  },
+  "explicacao": [
+   "O Past Simple fala de ações terminadas no passado: yesterday, last week, two days ago.",
+   "Verbos regulares ganham -ed: work → worked, help → helped.",
+   "Terminado em e: só -d: like → liked. Consoante + y: -ied: study → studied. Verbos curtos dobram: stop → stopped.",
+   "O passado é igual para todas as pessoas: I worked, she worked, they worked.",
+   "Negativa: didn't + verbo normal: I didn't work. Pergunta: Did you work? Yes, I did."
+  ],
+  "exemplos": [
+   {
+    "en": "I worked yesterday.",
+    "pt": "Eu trabalhei ontem."
+   },
+   {
+    "en": "She helped me.",
+    "pt": "Ela me ajudou."
+   },
+   {
+    "en": "We watched a movie.",
+    "pt": "Nós assistimos a um filme."
+   },
+   {
+    "en": "He studied last night.",
+    "pt": "Ele estudou ontem à noite."
+   },
+   {
+    "en": "I didn't like the food.",
+    "pt": "Eu não gostei da comida."
+   },
+   {
+    "en": "Did you call her?",
+    "pt": "Você ligou para ela?"
+   }
+  ],
+  "exercicios": [
+   {
+    "tipo": "escolha",
+    "pergunta": "Yesterday I ___ at home.",
+    "resposta": "stayed",
+    "explicacao": "Regular: -ed.",
+    "opcoes": [
+     "stay",
+     "stayed",
+     "staied"
+    ],
+    "id": "past-simple-0",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "study no passado:",
+    "resposta": "studied",
+    "explicacao": "Consoante + y → -ied.",
+    "opcoes": [
+     "studyed",
+     "studied",
+     "studed"
+    ],
+    "id": "past-simple-1",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "She didn't ___ the box.",
+    "resposta": "open",
+    "explicacao": "Depois de didn't: verbo normal.",
+    "opcoes": [
+     "opened",
+     "open",
+     "opens"
+    ],
+    "id": "past-simple-2",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Complete: They ___ (help) the customer.",
+    "resposta": [
+     "helped"
+    ],
+    "explicacao": "help + ed.",
+    "id": "past-simple-3",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Faça a pergunta: you / call / me? (passado)",
+    "resposta": [
+     "did you call me",
+     "did you call me?"
+    ],
+    "explicacao": "Did + you + call.",
+    "id": "past-simple-4",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça. Presente ou passado?",
+    "resposta": "Passado",
+    "explicacao": "worked = passado.",
+    "opcoes": [
+     "Passado",
+     "Presente"
+    ],
+    "audio": "I worked a lot yesterday.",
+    "id": "past-simple-5",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "ouvir_escrever",
+    "pergunta": "Ouça e escreva.",
+    "resposta": [
+     "she liked the movie"
+    ],
+    "explicacao": "She liked the movie = Ela gostou do filme.",
+    "audio": "She liked the movie.",
+    "id": "past-simple-6",
+    "topico": "Past Simple"
+   }
+  ],
+  "quiz": [
+   {
+    "tipo": "escolha",
+    "pergunta": "stop no passado:",
+    "resposta": "stopped",
+    "explicacao": "Dobra o p.",
+    "opcoes": [
+     "stoped",
+     "stopped",
+     "stopt"
+    ],
+    "id": "past-simple-7",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "like no passado:",
+    "resposta": "liked",
+    "explicacao": "Termina em e: só -d.",
+    "opcoes": [
+     "likeed",
+     "liked",
+     "likd"
+    ],
+    "id": "past-simple-8",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "___ he work last Sunday?",
+    "resposta": "Did",
+    "explicacao": "Pergunta no passado: Did.",
+    "opcoes": [
+     "Does",
+     "Did",
+     "Was"
+    ],
+    "id": "past-simple-9",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "I ___ watch TV yesterday.",
+    "resposta": "didn't",
+    "explicacao": "Passado negativo: didn't.",
+    "opcoes": [
+     "don't",
+     "didn't",
+     "wasn't"
+    ],
+    "id": "past-simple-10",
+    "topico": "Past Simple"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça e escolha.",
+    "resposta": "We played football.",
+    "explicacao": "played = jogamos.",
+    "opcoes": [
+     "We played football.",
+     "We play football.",
+     "We playing football."
+    ],
+    "audio": "We played football.",
+    "id": "past-simple-11",
+    "topico": "Past Simple"
+   }
+  ]
+ },
+ {
+  "id": "can",
+  "data": "2026-11-08",
+  "titulo": "Can e Can't: habilidade e permissão",
+  "foco": "conversa",
+  "topico": "Can/Can't",
+  "aquecimento": {
+   "texto": "Ouça e repita. Pense em coisas que você sabe fazer.",
+   "frases": [
+    "I can speak Portuguese.",
+    "I can't swim very well.",
+    "Can you help me?"
+   ]
+  },
+  "explicacao": [
+   "Can = poder, conseguir, saber fazer. Can't (cannot) = não poder.",
+   "Can é igual para todas as pessoas: I can, she can (nunca she cans).",
+   "Depois de can o verbo fica normal, sem to: I can swim (não I can to swim).",
+   "Pergunta: Can you drive? Yes, I can. / No, I can't.",
+   "Também usamos para pedir: Can I pay by card? Can you repeat, please?"
+  ],
+  "exemplos": [
+   {
+    "en": "I can cook.",
+    "pt": "Eu sei cozinhar."
+   },
+   {
+    "en": "She can't drive.",
+    "pt": "Ela não sabe dirigir."
+   },
+   {
+    "en": "Can you help me?",
+    "pt": "Você pode me ajudar?"
+   },
+   {
+    "en": "Can I pay by card?",
+    "pt": "Posso pagar com cartão?"
+   },
+   {
+    "en": "We can go tomorrow.",
+    "pt": "Podemos ir amanhã."
+   },
+   {
+    "en": "Can you repeat, please?",
+    "pt": "Você pode repetir, por favor?"
+   }
+  ],
+  "exercicios": [
+   {
+    "tipo": "escolha",
+    "pergunta": "He ___ speak English.",
+    "resposta": "can",
+    "explicacao": "Can não muda.",
+    "opcoes": [
+     "cans",
+     "can",
+     "can to"
+    ],
+    "id": "can-0",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "I can ___ the guitar.",
+    "resposta": "play",
+    "explicacao": "Can + verbo normal.",
+    "opcoes": [
+     "play",
+     "to play",
+     "playing"
+    ],
+    "id": "can-1",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "Resposta curta: Can you swim? Yes, ___.",
+    "resposta": "I can",
+    "explicacao": "Yes, I can.",
+    "opcoes": [
+     "I can",
+     "I do",
+     "I swim"
+    ],
+    "id": "can-2",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Em inglês: Posso pagar com cartão?",
+    "resposta": [
+     "can i pay by card",
+     "can i pay with card",
+     "can i pay with a card",
+     "can i pay by credit card"
+    ],
+    "explicacao": "Can I pay by card?",
+    "id": "can-3",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "escrever",
+    "pergunta": "Corrija: She cans cook.",
+    "resposta": [
+     "she can cook"
+    ],
+    "explicacao": "Can não leva -s.",
+    "id": "can-4",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça: can ou can't?",
+    "resposta": "can't",
+    "explicacao": "Can't tem o t no final.",
+    "opcoes": [
+     "can",
+     "can't"
+    ],
+    "audio": "I can't come today.",
+    "id": "can-5",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "ouvir_escrever",
+    "pergunta": "Ouça e escreva.",
+    "resposta": [
+     "can you help me",
+     "can you help me?"
+    ],
+    "explicacao": "Can you help me = Você pode me ajudar?",
+    "audio": "Can you help me?",
+    "id": "can-6",
+    "topico": "Can/Can't"
+   }
+  ],
+  "quiz": [
+   {
+    "tipo": "escolha",
+    "pergunta": "They ___ come to the party.",
+    "resposta": "can't",
+    "explicacao": "Negativa: can't.",
+    "opcoes": [
+     "can't",
+     "doesn't can",
+     "not can"
+    ],
+    "id": "can-7",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "___ you open the door, please?",
+    "resposta": "Can",
+    "explicacao": "Pedido: Can you...?",
+    "opcoes": [
+     "Do",
+     "Can",
+     "Are"
+    ],
+    "id": "can-8",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "Frase correta:",
+    "resposta": "I can drive.",
+    "explicacao": "Sem to e sem -ing.",
+    "opcoes": [
+     "I can to drive.",
+     "I can drive.",
+     "I can driving."
+    ],
+    "id": "can-9",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "escolha",
+    "pergunta": "Can you cook? No, ___.",
+    "resposta": "I can't",
+    "explicacao": "No, I can't.",
+    "opcoes": [
+     "I can't",
+     "I don't can",
+     "I not"
+    ],
+    "id": "can-10",
+    "topico": "Can/Can't"
+   },
+   {
+    "tipo": "ouvir_escolha",
+    "pergunta": "Ouça e escolha.",
+    "resposta": "She can speak French.",
+    "explicacao": "Ouvimos can.",
+    "opcoes": [
+     "She can speak French.",
+     "She can't speak French."
+    ],
+    "audio": "She can speak French.",
+    "id": "can-11",
+    "topico": "Can/Can't"
+   }
+  ]
+ }
+]

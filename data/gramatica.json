@@ -1,0 +1,167 @@
+[
+ {
+  "id": "present-simple",
+  "titulo": "Present Simple",
+  "regra": [
+   "Rotina e hábitos.",
+   "He, she, it: verbo + s (works, goes, studies).",
+   "Negativa: don't / doesn't + verbo normal.",
+   "Pergunta: Do / Does + sujeito + verbo normal."
+  ],
+  "exemplos": [
+   "I work every day.",
+   "She works every day.",
+   "He doesn't eat meat.",
+   "Do you like coffee?"
+  ],
+  "erros": [
+   {
+    "errado": "She work at a pharmacy.",
+    "certo": "She works at a pharmacy.",
+    "porque": "Com she, verbo leva -s."
+   },
+   {
+    "errado": "He doesn't likes fish.",
+    "certo": "He doesn't like fish.",
+    "porque": "Depois de doesn't, sem -s."
+   },
+   {
+    "errado": "You like pizza?",
+    "certo": "Do you like pizza?",
+    "porque": "Perguntas precisam de do/does."
+   }
+  ]
+ },
+ {
+  "id": "to-be",
+  "titulo": "To Be (am, is, are)",
+  "regra": [
+   "Ser ou estar.",
+   "I am / he, she, it is / you, we, they are.",
+   "Negativa: am not, isn't, aren't.",
+   "Pergunta: inverta: Are you...? Is she...?"
+  ],
+  "exemplos": [
+   "I am tired.",
+   "She is a nurse.",
+   "They aren't here.",
+   "Is it open?"
+  ],
+  "erros": [
+   {
+    "errado": "I have 30 years.",
+    "certo": "I am 30 years old.",
+    "porque": "Idade usa to be."
+   },
+   {
+    "errado": "She is work today.",
+    "certo": "She works today. / She is working today.",
+    "porque": "Não misture is com verbo normal."
+   },
+   {
+    "errado": "Is cold today.",
+    "certo": "It is cold today.",
+    "porque": "Inglês sempre precisa de sujeito (it)."
+   }
+  ]
+ },
+ {
+  "id": "present-continuous",
+  "titulo": "Present Continuous",
+  "regra": [
+   "Ação acontecendo agora.",
+   "am / is / are + verbo-ing.",
+   "write → writing, run → running.",
+   "Negativa: isn't / aren't + -ing."
+  ],
+  "exemplos": [
+   "I am studying now.",
+   "She is working.",
+   "We aren't sleeping.",
+   "Are you listening?"
+  ],
+  "erros": [
+   {
+    "errado": "I working now.",
+    "certo": "I am working now.",
+    "porque": "Precisa de am/is/are."
+   },
+   {
+    "errado": "She is write.",
+    "certo": "She is writing.",
+    "porque": "Precisa do -ing."
+   },
+   {
+    "errado": "I am knowing the answer.",
+    "certo": "I know the answer.",
+    "porque": "Know, like, want quase nunca usam -ing."
+   }
+  ]
+ },
+ {
+  "id": "past-simple",
+  "titulo": "Past Simple (regulares)",
+  "regra": [
+   "Ação terminada no passado.",
+   "Verbo + ed: worked, helped.",
+   "Igual para todas as pessoas.",
+   "Negativa e pergunta: didn't / did + verbo normal."
+  ],
+  "exemplos": [
+   "I worked yesterday.",
+   "She studied last night.",
+   "We didn't watch TV.",
+   "Did you call him?"
+  ],
+  "erros": [
+   {
+    "errado": "I didn't worked.",
+    "certo": "I didn't work.",
+    "porque": "Depois de didn't, verbo normal."
+   },
+   {
+    "errado": "Did she called you?",
+    "certo": "Did she call you?",
+    "porque": "Depois de did, verbo normal."
+   },
+   {
+    "errado": "Yesterday I work a lot.",
+    "certo": "Yesterday I worked a lot.",
+    "porque": "Passado precisa de -ed."
+   }
+  ]
+ },
+ {
+  "id": "can",
+  "titulo": "Can / Can't",
+  "regra": [
+   "Habilidade, possibilidade ou pedido.",
+   "Igual para todas as pessoas.",
+   "Can + verbo normal (sem to).",
+   "Pergunta: Can you...? Resposta: Yes, I can."
+  ],
+  "exemplos": [
+   "I can swim.",
+   "He can't drive.",
+   "Can I help you?",
+   "Can you repeat, please?"
+  ],
+  "erros": [
+   {
+    "errado": "She cans speak English.",
+    "certo": "She can speak English.",
+    "porque": "Can nunca leva -s."
+   },
+   {
+    "errado": "I can to go.",
+    "certo": "I can go.",
+    "porque": "Sem to depois de can."
+   },
+   {
+    "errado": "Do you can help me?",
+    "certo": "Can you help me?",
+    "porque": "Can não usa do."
+   }
+  ]
+ }
+]
