@@ -163,5 +163,38 @@
     "porque": "Can não usa do."
    }
   ]
+ },
+ {
+  "id": "past-irregular",
+  "titulo": "Past Simple: irregulares",
+  "regra": [
+   "Verbos irregulares mudam de forma no passado.",
+   "Decore os comuns: go → went, have → had, do → did, see → saw, eat → ate, buy → bought.",
+   "Igual para todas as pessoas.",
+   "Negativa e pergunta: didn't / Did + verbo normal."
+  ],
+  "exemplos": [
+   "I went home.",
+   "She bought bread.",
+   "I didn't go.",
+   "Did you see it?"
+  ],
+  "erros": [
+   {
+    "errado": "I goed to school.",
+    "certo": "I went to school.",
+    "porque": "Go é irregular: went."
+   },
+   {
+    "errado": "I didn't went.",
+    "certo": "I didn't go.",
+    "porque": "Depois de didn't: verbo normal."
+   },
+   {
+    "errado": "Did you saw it?",
+    "certo": "Did you see it?",
+    "porque": "Depois de Did: verbo normal."
+   }
+  ]
  }
 ]

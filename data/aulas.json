@@ -1234,5 +1234,207 @@
         "topico": "Horas e números"
       }
     ]
+  },
+  {
+    "id": "past-irregular",
+    "data": "2026-11-10",
+    "titulo": "Past Simple: verbos irregulares",
+    "foco": "gramática",
+    "topico": "Past Simple irregular",
+    "aquecimento": {
+      "texto": "Ouça e repita. Pense no seu dia de ontem.",
+      "frases": [
+        "I went to work yesterday.",
+        "I had coffee in the morning.",
+        "I saw my friend at night."
+      ]
+    },
+    "explicacao": [
+      "Ontem você aprendeu os verbos regulares (-ed). Hoje: os irregulares, que mudam de forma no passado.",
+      "Eles não seguem regra, então é preciso decorar os mais comuns: go → went, have → had, do → did, see → saw, eat → ate.",
+      "Outros muito usados: buy → bought, make → made, take → took, get → got, come → came, tell → told.",
+      "Assim como os regulares, o passado é igual para todas as pessoas: I went, she went, they went.",
+      "Na negativa e na pergunta, o verbo volta ao normal: I didn't go (e não didn't went). Did you go? Yes, I did."
+    ],
+    "exemplos": [
+      {
+        "en": "I went to the pharmacy yesterday.",
+        "pt": "Eu fui à farmácia ontem."
+      },
+      {
+        "en": "She had a busy day.",
+        "pt": "Ela teve um dia corrido."
+      },
+      {
+        "en": "We ate pizza last night.",
+        "pt": "Nós comemos pizza ontem à noite."
+      },
+      {
+        "en": "He bought a new car.",
+        "pt": "Ele comprou um carro novo."
+      },
+      {
+        "en": "I didn't see the message.",
+        "pt": "Eu não vi a mensagem."
+      },
+      {
+        "en": "Did you make dinner?",
+        "pt": "Você fez o jantar?"
+      }
+    ],
+    "exercicios": [
+      {
+        "tipo": "escolha",
+        "pergunta": "Yesterday I ___ to the market.",
+        "resposta": "went",
+        "explicacao": "go no passado = went.",
+        "opcoes": [
+          "goed",
+          "went",
+          "go"
+        ],
+        "id": "past-irregular-0",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "She ___ a new phone last week.",
+        "resposta": "bought",
+        "explicacao": "buy no passado = bought.",
+        "opcoes": [
+          "buyed",
+          "bought",
+          "buys"
+        ],
+        "id": "past-irregular-1",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "I didn't ___ breakfast today.",
+        "resposta": "eat",
+        "explicacao": "Depois de didn't: verbo normal.",
+        "opcoes": [
+          "ate",
+          "eat",
+          "eated"
+        ],
+        "id": "past-irregular-2",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Complete: We ___ (have) lunch at noon.",
+        "resposta": [
+          "had"
+        ],
+        "explicacao": "have no passado = had.",
+        "id": "past-irregular-3",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Faça a pergunta: you / see / the game? (passado)",
+        "resposta": [
+          "did you see the game",
+          "did you see the game?"
+        ],
+        "explicacao": "Did + you + see (verbo normal).",
+        "id": "past-irregular-4",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça. Presente ou passado?",
+        "resposta": "Passado",
+        "explicacao": "came = veio (passado de come).",
+        "opcoes": [
+          "Passado",
+          "Presente"
+        ],
+        "audio": "He came home late.",
+        "id": "past-irregular-5",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "ouvir_escrever",
+        "pergunta": "Ouça e escreva.",
+        "resposta": [
+          "i made a cake"
+        ],
+        "explicacao": "I made a cake = Eu fiz um bolo.",
+        "audio": "I made a cake.",
+        "id": "past-irregular-6",
+        "topico": "Past Simple irregular"
+      }
+    ],
+    "quiz": [
+      {
+        "tipo": "escolha",
+        "pergunta": "see no passado:",
+        "resposta": "saw",
+        "explicacao": "see → saw.",
+        "opcoes": [
+          "seed",
+          "saw",
+          "sawed"
+        ],
+        "id": "past-irregular-7",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "get no passado:",
+        "resposta": "got",
+        "explicacao": "get → got.",
+        "opcoes": [
+          "getted",
+          "got",
+          "gets"
+        ],
+        "id": "past-irregular-8",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "He ___ me the news yesterday.",
+        "resposta": "told",
+        "explicacao": "tell → told.",
+        "opcoes": [
+          "telled",
+          "told",
+          "tell"
+        ],
+        "id": "past-irregular-9",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "___ you go to work last Saturday?",
+        "resposta": "Did",
+        "explicacao": "Pergunta no passado: Did + verbo normal.",
+        "opcoes": [
+          "Do",
+          "Did",
+          "Went"
+        ],
+        "id": "past-irregular-10",
+        "topico": "Past Simple irregular"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça e escolha.",
+        "resposta": "I took the bus.",
+        "explicacao": "took = peguei (passado de take).",
+        "opcoes": [
+          "I took the bus.",
+          "I take the bus.",
+          "I taked the bus."
+        ],
+        "audio": "I took the bus.",
+        "id": "past-irregular-11",
+        "topico": "Past Simple irregular"
+      }
+    ]
   }
 ]

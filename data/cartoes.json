@@ -467,5 +467,33 @@
     "pt": "fechar",
     "exemplo": "We close at six.",
     "dica": "Close (verbo) soa 'clouz'."
+  },
+  {
+    "id": 67,
+    "en": "went",
+    "pt": "fui / foi (passado de go)",
+    "exemplo": "I went to the park.",
+    "dica": "Go → went."
+  },
+  {
+    "id": 68,
+    "en": "bought",
+    "pt": "comprei / comprou (passado de buy)",
+    "exemplo": "I bought milk.",
+    "dica": "Soa 'bót'."
+  },
+  {
+    "id": 69,
+    "en": "saw",
+    "pt": "vi / viu (passado de see)",
+    "exemplo": "I saw a movie.",
+    "dica": "See → saw."
+  },
+  {
+    "id": 70,
+    "en": "took",
+    "pt": "peguei / pegou (passado de take)",
+    "exemplo": "She took the bus.",
+    "dica": "Take → took."
   }
 ]
