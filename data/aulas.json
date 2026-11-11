@@ -1436,5 +1436,223 @@
         "topico": "Past Simple irregular"
       }
     ]
+  },
+  {
+    "id": "pedidos",
+    "data": "2026-11-11",
+    "titulo": "Pedidos educados: I'd like e Can I have",
+    "foco": "conversa",
+    "topico": "Pedidos educados",
+    "aquecimento": {
+      "texto": "Ouça e repita. Imagine que você está numa lanchonete ou no balcão da farmácia.",
+      "frases": [
+        "I'd like a coffee, please.",
+        "Can I have some water?",
+        "Here you are."
+      ]
+    },
+    "explicacao": [
+      "Para pedir algo com educação, use I'd like + coisa. I'd like = I would like = eu gostaria.",
+      "Outra forma comum: Can I have + coisa? = Posso pegar / Você me dá...?",
+      "Sempre ajuda dizer please (por favor) e thank you (obrigado).",
+      "Quando alguém entrega algo, diz: Here you are. ou Here you go. = Aqui está.",
+      "O atendente pode perguntar: Anything else? = Mais alguma coisa? Resposta: No, thank you. ou Yes, I'd like...",
+      "Para perguntar o preço: How much is it? = Quanto custa?"
+    ],
+    "exemplos": [
+      {
+        "en": "I'd like a sandwich, please.",
+        "pt": "Eu gostaria de um sanduíche, por favor."
+      },
+      {
+        "en": "Can I have a glass of water?",
+        "pt": "Pode me dar um copo de água?"
+      },
+      {
+        "en": "Here you are.",
+        "pt": "Aqui está."
+      },
+      {
+        "en": "Anything else?",
+        "pt": "Mais alguma coisa?"
+      },
+      {
+        "en": "No, thank you. How much is it?",
+        "pt": "Não, obrigado. Quanto custa?"
+      },
+      {
+        "en": "I'd like this medicine, please.",
+        "pt": "Eu gostaria deste remédio, por favor."
+      }
+    ],
+    "exercicios": [
+      {
+        "tipo": "escolha",
+        "pergunta": "Complete: I'd ___ a coffee, please.",
+        "resposta": "like",
+        "explicacao": "I'd like = eu gostaria.",
+        "opcoes": [
+          "like",
+          "likes",
+          "liking"
+        ],
+        "id": "pedidos-0",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "O que o atendente diz ao entregar algo?",
+        "resposta": "Here you are.",
+        "explicacao": "Here you are = aqui está.",
+        "opcoes": [
+          "Here you are.",
+          "Where are you?",
+          "How are you?"
+        ],
+        "id": "pedidos-1",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça: o que a pessoa quer?",
+        "resposta": "Água",
+        "explicacao": "Water = água.",
+        "opcoes": [
+          "Água",
+          "Café",
+          "Suco"
+        ],
+        "audio": "Can I have some water, please?",
+        "id": "pedidos-2",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça: o que o atendente perguntou?",
+        "resposta": "Mais alguma coisa?",
+        "explicacao": "Anything else? = mais alguma coisa?",
+        "opcoes": [
+          "Mais alguma coisa?",
+          "Quanto custa?",
+          "Qual é o seu nome?"
+        ],
+        "audio": "Anything else?",
+        "id": "pedidos-3",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Em inglês: Quanto custa?",
+        "resposta": [
+          "how much is it",
+          "how much is it?",
+          "how much does it cost",
+          "how much does it cost?",
+          "how much is this",
+          "how much is this?"
+        ],
+        "explicacao": "How much is it?",
+        "id": "pedidos-4",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "ouvir_escrever",
+        "pergunta": "Ouça e escreva.",
+        "resposta": [
+          "i'd like a sandwich, please",
+          "i'd like a sandwich please",
+          "id like a sandwich please",
+          "i would like a sandwich please",
+          "i'd like a sandwich",
+          "i'd like a sandwich, please."
+        ],
+        "explicacao": "I'd like a sandwich, please.",
+        "audio": "I'd like a sandwich, please.",
+        "id": "pedidos-5",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Em inglês: Não, obrigado.",
+        "resposta": [
+          "no, thank you",
+          "no thank you",
+          "no, thanks",
+          "no thanks",
+          "no, thank you."
+        ],
+        "explicacao": "No, thank you.",
+        "id": "pedidos-6",
+        "topico": "Pedidos educados"
+      }
+    ],
+    "quiz": [
+      {
+        "tipo": "escolha",
+        "pergunta": "Qual é o jeito mais educado de pedir?",
+        "resposta": "I'd like a juice, please.",
+        "explicacao": "I'd like + please é educado.",
+        "opcoes": [
+          "I'd like a juice, please.",
+          "Give juice.",
+          "Juice now."
+        ],
+        "id": "pedidos-7",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Complete: ___ I have a coffee?",
+        "resposta": "Can",
+        "explicacao": "Can I have...? = pode me dar...?",
+        "opcoes": [
+          "Can",
+          "Am",
+          "Do"
+        ],
+        "id": "pedidos-8",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça e escolha a resposta certa.",
+        "resposta": "No, thank you.",
+        "explicacao": "Para Anything else?, responda No, thank you. se não quer mais nada.",
+        "opcoes": [
+          "No, thank you.",
+          "I'm fine, and you?",
+          "It's three o'clock."
+        ],
+        "audio": "Anything else?",
+        "id": "pedidos-9",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "How much is it? quer dizer:",
+        "resposta": "Quanto custa?",
+        "explicacao": "How much = quanto.",
+        "opcoes": [
+          "Quanto custa?",
+          "Onde fica?",
+          "Que horas são?"
+        ],
+        "id": "pedidos-10",
+        "topico": "Pedidos educados"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça e escolha.",
+        "resposta": "I'd like this medicine, please.",
+        "explicacao": "I'd like this medicine = gostaria deste remédio.",
+        "opcoes": [
+          "I'd like this medicine, please.",
+          "I like this music, please."
+        ],
+        "audio": "I'd like this medicine, please.",
+        "id": "pedidos-11",
+        "topico": "Pedidos educados"
+      }
+    ]
   }
 ]

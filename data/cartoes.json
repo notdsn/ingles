@@ -495,5 +495,33 @@
     "pt": "peguei / pegou (passado de take)",
     "exemplo": "She took the bus.",
     "dica": "Take → took."
+  },
+  {
+    "id": 71,
+    "en": "I'd like",
+    "pt": "eu gostaria",
+    "exemplo": "I'd like a coffee, please.",
+    "dica": "I'd = I would."
+  },
+  {
+    "id": 72,
+    "en": "Here you are",
+    "pt": "aqui está",
+    "exemplo": "Here you are. Thank you!",
+    "dica": "Dito ao entregar algo."
+  },
+  {
+    "id": 73,
+    "en": "Anything else?",
+    "pt": "mais alguma coisa?",
+    "exemplo": "Anything else? No, thank you.",
+    "dica": "Pergunta comum de atendente."
+  },
+  {
+    "id": 74,
+    "en": "How much",
+    "pt": "quanto (preço)",
+    "exemplo": "How much is it?",
+    "dica": "How much is it? = quanto custa?"
   }
 ]
