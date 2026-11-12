@@ -523,5 +523,33 @@
     "pt": "quanto (preço)",
     "exemplo": "How much is it?",
     "dica": "How much is it? = quanto custa?"
+  },
+  {
+    "id": 75,
+    "en": "Turn left",
+    "pt": "vire à esquerda",
+    "exemplo": "Turn left at the corner.",
+    "dica": "Left = esquerda."
+  },
+  {
+    "id": 76,
+    "en": "Turn right",
+    "pt": "vire à direita",
+    "exemplo": "Turn right here.",
+    "dica": "Right = direita."
+  },
+  {
+    "id": 77,
+    "en": "Straight ahead",
+    "pt": "em frente",
+    "exemplo": "Go straight ahead.",
+    "dica": "Siga em frente."
+  },
+  {
+    "id": 78,
+    "en": "Next to",
+    "pt": "ao lado de",
+    "exemplo": "The bank is next to the market.",
+    "dica": "Indica posição."
   }
 ]

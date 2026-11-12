@@ -1654,5 +1654,217 @@
         "topico": "Pedidos educados"
       }
     ]
+  },
+  {
+    "id": "direcoes",
+    "data": "2026-11-12",
+    "titulo": "Direções: left, right e straight ahead",
+    "foco": "compreensão auditiva",
+    "topico": "Direções",
+    "aquecimento": {
+      "texto": "Ouça e repita devagar. Preste atenção em left e right.",
+      "frases": [
+        "Turn left.",
+        "Go straight ahead.",
+        "It's on the right."
+      ]
+    },
+    "explicacao": [
+      "Para perguntar onde fica um lugar: Where is the pharmacy? ou Excuse me, where is the bank?",
+      "Turn left = vire à esquerda. Turn right = vire à direita. Go straight ahead = siga em frente.",
+      "It's on the left / on the right = fica à esquerda / à direita.",
+      "Next to = ao lado de. Across from = em frente a (do outro lado da rua). Near = perto.",
+      "Ao ouvir, foque na última palavra: left ou right. Right tem som de 'ráit'; left tem som de 'léft'."
+    ],
+    "exemplos": [
+      {
+        "en": "Excuse me, where is the pharmacy?",
+        "pt": "Com licença, onde fica a farmácia?"
+      },
+      {
+        "en": "Go straight ahead.",
+        "pt": "Siga em frente."
+      },
+      {
+        "en": "Turn right at the corner.",
+        "pt": "Vire à direita na esquina."
+      },
+      {
+        "en": "It's on the left.",
+        "pt": "Fica à esquerda."
+      },
+      {
+        "en": "The bank is next to the market.",
+        "pt": "O banco fica ao lado do mercado."
+      },
+      {
+        "en": "The school is across from the park.",
+        "pt": "A escola fica em frente ao parque."
+      }
+    ],
+    "exercicios": [
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça: para onde virar?",
+        "resposta": "Esquerda",
+        "explicacao": "Turn left = vire à esquerda.",
+        "opcoes": [
+          "Esquerda",
+          "Direita",
+          "Em frente"
+        ],
+        "audio": "Turn left.",
+        "id": "direcoes-0",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça: para onde ir?",
+        "resposta": "Em frente",
+        "explicacao": "Go straight ahead = siga em frente.",
+        "opcoes": [
+          "Esquerda",
+          "Direita",
+          "Em frente"
+        ],
+        "audio": "Go straight ahead.",
+        "id": "direcoes-1",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça: onde fica?",
+        "resposta": "À direita",
+        "explicacao": "On the right = à direita.",
+        "opcoes": [
+          "À esquerda",
+          "À direita",
+          "Longe"
+        ],
+        "audio": "It's on the right.",
+        "id": "direcoes-2",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "O banco fica ao lado do mercado: The bank is ___ the market.",
+        "resposta": "next to",
+        "explicacao": "Next to = ao lado de.",
+        "opcoes": [
+          "next to",
+          "across from",
+          "turn"
+        ],
+        "id": "direcoes-3",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Em inglês: Vire à direita.",
+        "resposta": [
+          "turn right",
+          "turn right."
+        ],
+        "explicacao": "Turn right.",
+        "id": "direcoes-4",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "ouvir_escrever",
+        "pergunta": "Ouça e escreva.",
+        "resposta": [
+          "where is the bank",
+          "where is the bank?",
+          "where's the bank",
+          "where's the bank?"
+        ],
+        "explicacao": "Where is the bank? = Onde fica o banco?",
+        "audio": "Where is the bank?",
+        "id": "direcoes-5",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "ouvir_escrever",
+        "pergunta": "Ouça e escreva.",
+        "resposta": [
+          "it's on the left",
+          "its on the left",
+          "it is on the left",
+          "it's on the left."
+        ],
+        "explicacao": "On the left = à esquerda.",
+        "audio": "It's on the left.",
+        "id": "direcoes-6",
+        "topico": "Direções"
+      }
+    ],
+    "quiz": [
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça e escolha.",
+        "resposta": "Turn right at the corner.",
+        "explicacao": "Turn right at the corner = vire à direita na esquina.",
+        "opcoes": [
+          "Turn left at the corner.",
+          "Turn right at the corner."
+        ],
+        "audio": "Turn right at the corner.",
+        "id": "direcoes-7",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça: onde fica a escola?",
+        "resposta": "Em frente ao parque",
+        "explicacao": "Across from the park = em frente ao parque.",
+        "opcoes": [
+          "Ao lado do parque",
+          "Em frente ao parque",
+          "Perto do banco"
+        ],
+        "audio": "The school is across from the park.",
+        "id": "direcoes-8",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Como se diz 'siga em frente'?",
+        "resposta": "Go straight ahead.",
+        "explicacao": "Straight ahead = em frente.",
+        "opcoes": [
+          "Go straight ahead.",
+          "Turn left.",
+          "It's near."
+        ],
+        "id": "direcoes-9",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Excuse me, ___ is the pharmacy?",
+        "resposta": "where",
+        "explicacao": "Where = onde.",
+        "opcoes": [
+          "where",
+          "what time",
+          "how much"
+        ],
+        "id": "direcoes-10",
+        "topico": "Direções"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça e escolha.",
+        "resposta": "The market is near.",
+        "explicacao": "Near = perto.",
+        "opcoes": [
+          "The market is near.",
+          "The market is next to the bank."
+        ],
+        "audio": "The market is near.",
+        "id": "direcoes-11",
+        "topico": "Direções"
+      }
+    ]
   }
 ]
