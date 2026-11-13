@@ -1866,5 +1866,210 @@
         "topico": "Direções"
       }
     ]
+  },
+  {
+    "id": "going-to",
+    "data": "2026-11-13",
+    "titulo": "Futuro com going to: planos",
+    "foco": "gramática",
+    "topico": "Futuro com going to",
+    "aquecimento": {
+      "texto": "Ouça e repita. Pense nos seus planos para o fim de semana.",
+      "frases": [
+        "I am going to rest this weekend.",
+        "I am going to watch a movie.",
+        "I am going to visit my family."
+      ]
+    },
+    "explicacao": [
+      "Hoje você vai aprender a falar de planos para o futuro com going to. Em português é como \"vou fazer\", \"vai fazer\".",
+      "A fórmula é: pessoa + am/is/are + going to + verbo normal. Exemplo: I am going to study.",
+      "Use am com I, is com he/she/it e are com you/we/they. Na fala é comum encurtar: I'm, she's, they're.",
+      "Negativa: coloque not depois de am/is/are. I'm not going to work. She isn't going to come.",
+      "Pergunta: troque a ordem. Are you going to travel? Yes, I am. / No, I'm not.",
+      "Também usamos going to quando vemos que algo vai acontecer: Look! It's going to rain."
+    ],
+    "exemplos": [
+      {
+        "en": "I'm going to study English tonight.",
+        "pt": "Eu vou estudar inglês hoje à noite."
+      },
+      {
+        "en": "She is going to buy a new phone.",
+        "pt": "Ela vai comprar um celular novo."
+      },
+      {
+        "en": "We are going to travel in December.",
+        "pt": "Nós vamos viajar em dezembro."
+      },
+      {
+        "en": "He isn't going to work on Sunday.",
+        "pt": "Ele não vai trabalhar no domingo."
+      },
+      {
+        "en": "Are you going to watch the game?",
+        "pt": "Você vai assistir ao jogo?"
+      },
+      {
+        "en": "Look at the sky! It's going to rain.",
+        "pt": "Olha o céu! Vai chover."
+      }
+    ],
+    "exercicios": [
+      {
+        "tipo": "escolha",
+        "pergunta": "I ___ going to visit my mother tomorrow.",
+        "resposta": "am",
+        "explicacao": "Com I usamos am: I am going to.",
+        "opcoes": [
+          "is",
+          "am",
+          "are"
+        ],
+        "id": "going-to-0",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "They ___ going to play football on Sunday.",
+        "resposta": "are",
+        "explicacao": "Com they usamos are.",
+        "opcoes": [
+          "are",
+          "is",
+          "am"
+        ],
+        "id": "going-to-1",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "She is going to ___ a new job.",
+        "resposta": "start",
+        "explicacao": "Depois de going to: verbo normal.",
+        "opcoes": [
+          "starts",
+          "started",
+          "start"
+        ],
+        "id": "going-to-2",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Complete: He ___ going to work late today.",
+        "resposta": [
+          "is",
+          "'s"
+        ],
+        "explicacao": "Com he usamos is.",
+        "id": "going-to-3",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Faça a pergunta: you / going to / study tonight?",
+        "resposta": [
+          "are you going to study tonight",
+          "are you going to study tonight?"
+        ],
+        "explicacao": "Na pergunta, are vem antes de you.",
+        "id": "going-to-4",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça. A frase fala do passado ou do futuro?",
+        "resposta": "Futuro",
+        "explicacao": "going to = vai (futuro).",
+        "opcoes": [
+          "Futuro",
+          "Passado"
+        ],
+        "audio": "We are going to travel next month.",
+        "id": "going-to-5",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "ouvir_escrever",
+        "pergunta": "Ouça e escreva.",
+        "resposta": [
+          "i am going to cook",
+          "i'm going to cook"
+        ],
+        "explicacao": "I am going to cook = Eu vou cozinhar.",
+        "audio": "I am going to cook.",
+        "id": "going-to-6",
+        "topico": "Futuro com going to"
+      }
+    ],
+    "quiz": [
+      {
+        "tipo": "escolha",
+        "pergunta": "Qual frase está certa?",
+        "resposta": "I am going to sleep.",
+        "explicacao": "Sujeito + am/is/are + going to + verbo.",
+        "opcoes": [
+          "I going to sleep.",
+          "I am going to sleep.",
+          "I am going sleep."
+        ],
+        "id": "going-to-7",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Negativa: She ___ going to come.",
+        "resposta": "isn't",
+        "explicacao": "Negativa: is not = isn't.",
+        "opcoes": [
+          "doesn't",
+          "isn't",
+          "didn't"
+        ],
+        "id": "going-to-8",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "___ they going to buy a car?",
+        "resposta": "Are",
+        "explicacao": "Pergunta com they: Are they...?",
+        "opcoes": [
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "id": "going-to-9",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Look at the clouds! It's going to ___.",
+        "resposta": "rain",
+        "explicacao": "Usamos going to quando vemos sinais: vai chover.",
+        "opcoes": [
+          "rain",
+          "rains",
+          "rained"
+        ],
+        "id": "going-to-10",
+        "topico": "Futuro com going to"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça e escolha.",
+        "resposta": "He is going to call you.",
+        "explicacao": "He is going to call you = Ele vai te ligar.",
+        "opcoes": [
+          "He is going to call you.",
+          "He called you.",
+          "He calls you."
+        ],
+        "audio": "He is going to call you.",
+        "id": "going-to-11",
+        "topico": "Futuro com going to"
+      }
+    ]
   }
 ]

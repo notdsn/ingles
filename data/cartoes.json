@@ -551,5 +551,33 @@
     "pt": "ao lado de",
     "exemplo": "The bank is next to the market.",
     "dica": "Indica posição."
+  },
+  {
+    "id": 79,
+    "en": "Tomorrow",
+    "pt": "amanhã",
+    "exemplo": "I'm going to work tomorrow.",
+    "dica": "Muito usado com going to."
+  },
+  {
+    "id": 80,
+    "en": "Next week",
+    "pt": "semana que vem",
+    "exemplo": "We're going to travel next week.",
+    "dica": "Next = próximo."
+  },
+  {
+    "id": 81,
+    "en": "Tonight",
+    "pt": "hoje à noite",
+    "exemplo": "Are you going to go out tonight?",
+    "dica": "To + night."
+  },
+  {
+    "id": 82,
+    "en": "Plan",
+    "pt": "plano / planejar",
+    "exemplo": "What are your plans for Sunday?",
+    "dica": "Plans = planos."
   }
 ]

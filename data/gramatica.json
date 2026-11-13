@@ -196,5 +196,38 @@
     "porque": "Depois de Did: verbo normal."
    }
   ]
+ },
+ {
+  "id": "going-to",
+  "titulo": "Futuro: going to",
+  "regra": [
+   "Use going to para planos e para coisas que vão acontecer.",
+   "Fórmula: pessoa + am/is/are + going to + verbo normal.",
+   "Negativa: am/is/are + not: I'm not going to...",
+   "Pergunta: Are you going to...? Is she going to...?"
+  ],
+  "exemplos": [
+   "I'm going to study.",
+   "She's going to travel.",
+   "They aren't going to come.",
+   "Are you going to work?"
+  ],
+  "erros": [
+   {
+    "errado": "I going to study.",
+    "certo": "I am going to study.",
+    "porque": "Falta am/is/are."
+   },
+   {
+    "errado": "She is going to studies.",
+    "certo": "She is going to study.",
+    "porque": "Depois de going to: verbo normal."
+   },
+   {
+    "errado": "Do you going to travel?",
+    "certo": "Are you going to travel?",
+    "porque": "A pergunta usa am/is/are, não do."
+   }
+  ]
  }
 ]
