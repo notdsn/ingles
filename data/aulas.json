@@ -2071,5 +2071,208 @@
         "topico": "Futuro com going to"
       }
     ]
+  },
+  {
+    "id": "compras",
+    "data": "2026-11-14",
+    "titulo": "Compras: How much is it?",
+    "foco": "conversa",
+    "topico": "Compras e preços",
+    "aquecimento": {
+      "texto": "Ouça e repita. Imagine que você está numa loja.",
+      "frases": [
+        "How much is this?",
+        "It's ten dollars.",
+        "Can I pay by card?"
+      ]
+    },
+    "explicacao": [
+      "Hoje você vai aprender a conversar numa loja: perguntar o preço, pedir outro tamanho e pagar.",
+      "Para perguntar o preço de uma coisa: How much is this? (Quanto custa isto?). Para várias coisas: How much are these?",
+      "A resposta é simples: It's five dollars. / They're twenty reais. Em inglês o número vem antes da moeda.",
+      "O vendedor costuma perguntar: Can I help you? (Posso ajudar?). Se você só está olhando, diga: I'm just looking, thanks.",
+      "Para pedir outro tamanho ou cor: Do you have this in medium? / Do you have it in blue?",
+      "Para pagar: Can I pay by card? ou I'll pay in cash (vou pagar em dinheiro). Para decidir comprar: I'll take it (vou levar)."
+    ],
+    "exemplos": [
+      {
+        "en": "Can I help you?",
+        "pt": "Posso ajudar?"
+      },
+      {
+        "en": "I'm just looking, thanks.",
+        "pt": "Só estou olhando, obrigado."
+      },
+      {
+        "en": "How much is this shirt?",
+        "pt": "Quanto custa esta camisa?"
+      },
+      {
+        "en": "It's fifteen dollars.",
+        "pt": "Custa quinze dólares."
+      },
+      {
+        "en": "Do you have this in large?",
+        "pt": "Vocês têm isto no tamanho G?"
+      },
+      {
+        "en": "I'll take it. Can I pay by card?",
+        "pt": "Vou levar. Posso pagar no cartão?"
+      }
+    ],
+    "exercicios": [
+      {
+        "tipo": "escolha",
+        "pergunta": "Você quer saber o preço de uma camiseta. O que você diz?",
+        "resposta": "How much is this?",
+        "explicacao": "How much = quanto (preço).",
+        "opcoes": [
+          "How many is this?",
+          "How much is this?",
+          "What is this?"
+        ],
+        "id": "compras-0",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Para várias coisas: How much ___ these shoes?",
+        "resposta": "are",
+        "explicacao": "Plural (these shoes) usa are.",
+        "opcoes": [
+          "is",
+          "are",
+          "am"
+        ],
+        "id": "compras-1",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "O vendedor diz: Can I help you? Você só está olhando. Responda:",
+        "resposta": "I'm just looking, thanks.",
+        "explicacao": "Just looking = só olhando.",
+        "opcoes": [
+          "I'll take it.",
+          "I'm just looking, thanks.",
+          "It's ten dollars."
+        ],
+        "id": "compras-2",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Complete: I'll ___ it. (vou levar)",
+        "resposta": [
+          "take"
+        ],
+        "explicacao": "I'll take it = vou levar.",
+        "id": "compras-3",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "escrever",
+        "pergunta": "Complete: Can I pay ___ card?",
+        "resposta": [
+          "by"
+        ],
+        "explicacao": "Pagar no cartão: pay by card.",
+        "id": "compras-4",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça. Quanto custa?",
+        "resposta": "20 dólares",
+        "explicacao": "Twenty = 20.",
+        "opcoes": [
+          "12 dólares",
+          "20 dólares",
+          "2 dólares"
+        ],
+        "audio": "It's twenty dollars.",
+        "id": "compras-5",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "ouvir_escrever",
+        "pergunta": "Ouça e escreva.",
+        "resposta": [
+          "how much is this",
+          "how much is this?"
+        ],
+        "explicacao": "How much is this? = Quanto custa isto?",
+        "audio": "How much is this?",
+        "id": "compras-6",
+        "topico": "Compras e preços"
+      }
+    ],
+    "quiz": [
+      {
+        "tipo": "escolha",
+        "pergunta": "Como pedir outro tamanho?",
+        "resposta": "Do you have this in medium?",
+        "explicacao": "Do you have...? = Vocês têm...?",
+        "opcoes": [
+          "Do you have this in medium?",
+          "Are you medium?",
+          "I medium, please."
+        ],
+        "id": "compras-7",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Como dizer 'vou pagar em dinheiro'?",
+        "resposta": "I'll pay in cash.",
+        "explicacao": "Cash = dinheiro vivo.",
+        "opcoes": [
+          "I'll pay by cash card.",
+          "I'll pay in cash.",
+          "I pay money now."
+        ],
+        "id": "compras-8",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "Ordem certa do preço:",
+        "resposta": "It's five dollars.",
+        "explicacao": "Em inglês o número vem antes da moeda.",
+        "opcoes": [
+          "It's dollars five.",
+          "It's five dollars.",
+          "It's $ five."
+        ],
+        "id": "compras-9",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "escolha",
+        "pergunta": "'How much are these?' é usado para:",
+        "resposta": "Várias coisas",
+        "explicacao": "These = estes (plural).",
+        "opcoes": [
+          "Uma coisa",
+          "Várias coisas"
+        ],
+        "id": "compras-10",
+        "topico": "Compras e preços"
+      },
+      {
+        "tipo": "ouvir_escolha",
+        "pergunta": "Ouça e escolha.",
+        "resposta": "Do you have it in blue?",
+        "explicacao": "Do you have it in blue? = Tem em azul?",
+        "opcoes": [
+          "Do you have it in blue?",
+          "Do you like blue?",
+          "Is it blue?"
+        ],
+        "audio": "Do you have it in blue?",
+        "id": "compras-11",
+        "topico": "Compras e preços"
+      }
+    ]
   }
 ]

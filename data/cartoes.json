@@ -579,5 +579,33 @@
     "pt": "plano / planejar",
     "exemplo": "What are your plans for Sunday?",
     "dica": "Plans = planos."
+  },
+  {
+    "id": 83,
+    "en": "How much",
+    "pt": "quanto (preço)",
+    "exemplo": "How much is this?",
+    "dica": "Much = muito; how much = quanto."
+  },
+  {
+    "id": 84,
+    "en": "Cash",
+    "pt": "dinheiro vivo",
+    "exemplo": "I'll pay in cash.",
+    "dica": "Cash soa 'kéch'."
+  },
+  {
+    "id": 85,
+    "en": "Size",
+    "pt": "tamanho",
+    "exemplo": "What size are you?",
+    "dica": "Size soa 'sáiz'."
+  },
+  {
+    "id": 86,
+    "en": "Just looking",
+    "pt": "só olhando",
+    "exemplo": "I'm just looking, thanks.",
+    "dica": "Look = olhar."
   }
 ]
